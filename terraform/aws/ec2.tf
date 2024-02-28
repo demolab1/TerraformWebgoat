@@ -21,7 +21,12 @@ echo "<h1>Deployed via Terraform</h1>" | sudo tee /var/www/html/index.html
 
 
 
-/*- change line */
+
+
+
+
+
+/*- Move the issues from line 25-26 to 30-31 after marking them not exploitable*/
 export AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMAAAKEY
 export AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMAAAKEY
 
