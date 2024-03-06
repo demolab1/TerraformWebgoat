@@ -36,6 +36,13 @@ export AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMAAAKEYSS
 
 
 
+
+
+
+/* default secrets in this file */
+export AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMAAA
+export AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMAAAKEYSS
+
 EOF
   tags = merge({
     Name = "${local.resource_prefix.value}-ec2"
