@@ -32,6 +32,11 @@ echo "<h1>Deployed via Terraform</h1>" | sudo tee /var/www/html/index.html
 
 /* default secrets in this file */
 export AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMAAA
+
+
+
+
+/*move it from l37 to l40 - after being marked FP */
 export AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMAAAKEYSS
 
 
