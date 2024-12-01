@@ -6,7 +6,8 @@
 [![CIS GCP](https://www.bridgecrew.cloud/badges/github/bridgecrewio/terragoat/cis_gcp)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=bridgecrewio%2Fterragoat&benchmark=CIS+GCP+V1.1)
 [![CIS AWS](https://www.bridgecrew.cloud/badges/github/bridgecrewio/terragoat/cis_aws)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=bridgecrewio%2Fterragoat&benchmark=CIS+AWS+V1.2)
 [![PCI](https://www.bridgecrew.cloud/badges/github/bridgecrewio/terragoat/pci)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=bridgecrewio%2Fterragoat&benchmark=PCI-DSS+V3.2)
-![Terraform Version](https://img.shields.io/badge/tf-%3E%3D0.12.0-blue.svg) 
+![Terraform Version](https://img.shields.io/badge/tf-%3E%3D0.12.0-blue.svg) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdemolab1%2FTerraformWebgoat.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdemolab1%2FTerraformWebgoat?ref=badge_shield)
+
 [![slack-community](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white)](https://slack.bridgecrew.io/)
 
 
@@ -623,3 +624,7 @@ If you need direct support you can contact us at [info@bridgecrew.io](mailto:inf
 
 ---
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdemolab1%2FTerraformWebgoat.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdemolab1%2FTerraformWebgoat?ref=badge_large)
